@@ -25,3 +25,14 @@ Essential text manipulation tools at your fingertips!
 - Manifest V3
 - Vanilla JavaScript
 - No external dependencies
+
+## 📸 Screenshots
+
+### Right-Click Menu
+![Context Menu](screenshots/screenshot-menu.png)
+
+### Extension Working
+![Demo](screenshots/screenshot-demo.png)
+
+### Installed in Chrome
+![Installation](screenshots/screenshot-installed.png)
